@@ -1,0 +1,43 @@
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe.config
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.pdb
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.xml
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\obj\Debug\HAL_Interpreter.Resources.resources
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.exe
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.xml
+c:\users\thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.pdb
+C:\Users\Thomas\documents\visual studio 2017\Projects\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbprojResolveAssemblyReference.cache
+F:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe.config
+F:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.exe
+F:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.xml
+F:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.pdb
+F:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe
+F:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.pdb
+F:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.xml
+F:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbprojResolveAssemblyReference.cache
+F:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL_Interpreter.Resources.resources
+F:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbproj.GenerateResource.Cache
+D:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe.config
+D:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe
+D:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.pdb
+D:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.xml
+D:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbprojResolveAssemblyReference.cache
+D:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL_Interpreter.Resources.resources
+D:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbproj.GenerateResource.Cache
+D:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.exe
+D:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.xml
+D:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.pdb
+D:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL_Interpreter.GUI.resources
+F:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL_Interpreter.GUI.resources
+E:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe.config
+E:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.exe
+E:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.pdb
+E:\HAL Interpreter\HAL Interpreter\bin\Debug\HAL Interpreter.xml
+E:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbprojResolveAssemblyReference.cache
+E:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL_Interpreter.GUI.resources
+E:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL_Interpreter.Resources.resources
+E:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.vbproj.GenerateResource.Cache
+E:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.exe
+E:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.xml
+E:\HAL Interpreter\HAL Interpreter\obj\Debug\HAL Interpreter.pdb
